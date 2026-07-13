@@ -53,7 +53,6 @@ Computer-programming/
 ---
 
 ## Total Files
-
 - Members: 2
 - Programs per Member: 50
 - Total Programs: 100
